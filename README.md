@@ -12,6 +12,8 @@
 
 (1)Hold the BOOTSEL button on your Pico and plug it into your computer.
 
+(BEFORE DOING THE NEXT STEP ITS BETTER TO DRAG AND DROP THE ERASE-FLASH.UF2 FILE FROM RELEASES AND ON THE PICO WAIT FOR THE LED TO TURN OFF THEN THE RPI-RP2 VOLUME MAY APPEAR AUTOMATICALLY OTHERWISE HOLD BOOTSEL)
+
 (2)Drag and drop the firmware.uf2 file from this repository releases onto the RPI-RP2 volume.
 
 (3)Once it reboots, open the drive, drop your main.py code in, and watch it run at top speed without ever losing your files again!
