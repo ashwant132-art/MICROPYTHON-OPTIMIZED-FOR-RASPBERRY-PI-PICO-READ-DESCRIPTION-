@@ -47,3 +47,5 @@ Because this firmware uses standard USB Mass Storage Class (MSC) to act as a fla
 * **On Linux:** Always run the `sync` command in the terminal before resetting.
 
 Once your host system confirms it is safe to remove, press **BOOTSEL** to execute your code safely!
+
+**Also if Windows or Linux or any os says that there is a problem with the drive dont worry and if it promts you to fix the drive just click on that the main reason this can happen is if you dont eject the drive properly**.
